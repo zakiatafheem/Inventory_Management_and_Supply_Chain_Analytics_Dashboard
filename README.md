@@ -1,1 +1,1 @@
-# Inventory_Management_-_Supply_Chain_Analytics_Dashboard-
+# Inventory_Management_&_Supply_Chain_Analytics_Dashboard-
