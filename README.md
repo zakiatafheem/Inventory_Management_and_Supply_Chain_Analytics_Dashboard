@@ -146,5 +146,3 @@ Excel Reports      Power BI Dashboard
 - Creating user-friendly dashboard visualizations.
 
 ---
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
